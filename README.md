@@ -1,0 +1,2 @@
+# tipCalculator
+for csc472
