@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tipSplitCalculator</string>
+    <string name="tip_amount">Tip Amount:</string>
+</resources>
